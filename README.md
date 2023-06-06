@@ -10,7 +10,7 @@ Table of Contents :
    4- Usage
    5- Contributing
    6- License
-<\pre>
+</pre>
 
 # Introduction
 
