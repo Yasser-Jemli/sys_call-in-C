@@ -1,16 +1,18 @@
 # Problem-solving with System Calls
 
 This repository contains a collection of C programs that demonstrate problem-solving techniques using system calls. Each program focuses on a specific problem and utilizes the power of system calls to provide efficient and reliable solutions. Whether you're a beginner or an experienced programmer looking to explore system calls, this repository is a valuable resource for understanding their practical applications.
-Table of Contents
+<pre>
+Table of Contents : 
 
-    Introduction
-    Getting Started
-    Program List
-    Usage
-    Contributing
-    License
+   1- Introduction
+   2- Getting Started
+   3- Program List
+   4- Usage
+   5- Contributing
+   6- License
+<\pre>
 
-Introduction
+# Introduction
 
 System calls provide an interface between user-level applications and the underlying operating system. By leveraging system calls, we can interact directly with the kernel and access low-level functionalities that are crucial for solving various problems efficiently. This repository aims to showcase the usage of system calls to tackle real-world scenarios in C programming.
 Getting Started
