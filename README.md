@@ -21,7 +21,7 @@ Getting Started
 To get started with the programs in this repository, you'll need a Linux-based operating system. The examples provided rely on system calls specific to the Linux kernel. If you're using a different operating system, some system calls may not be available or may have different syntax.
 </pre>
 
-# To clone the repository, use the following command: ==>   git clone https://github.com/Yasser-Jemli/sys_call-in-C.git
+#3  To clone the repository, use the following command: ==>   git clone https://github.com/Yasser-Jemli/sys_call-in-C.git
 
 # Program List
 
